@@ -1,0 +1,6 @@
+float64 x
+float64 y
+float64 z
+float64 R
+float64 P
+float64 Y
